@@ -17,3 +17,8 @@ var fizzBuzz = function (n) {
   }
   return my_arr;
 };
+
+//const result = fizzBuzz(3);
+// const result = fizzBuzz(5);
+const result = fizzBuzz(15);
+console.log(result);
